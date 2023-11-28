@@ -19,13 +19,21 @@ A website for Computer Science Department that helps stuednts access information
 
 # Screenshots
 
-![Home Page](Homepage.png)
-![About](About.png)
-![Events](Events.png)
-![Academics](Academics.png)
-![Donate](Donate.png)
-![Courses](Courses.png)
-![Contact Us](ContactUs.png)
+![Homepage](https://github.com/Raymond4545/11228276_DCIT205/assets/151669493/6ed97726-a490-40f4-ac38-995c454bfbea)
+
+![About](https://github.com/Raymond4545/11228276_DCIT205/assets/151669493/6b722ccd-f100-49ac-84e2-c0e62dbb9021)
+
+![Events](https://github.com/Raymond4545/11228276_DCIT205/assets/151669493/eb4f0079-883b-4566-be7e-a866373f5bb4)
+
+![Donate](https://github.com/Raymond4545/11228276_DCIT205/assets/151669493/646c2b11-2031-4e7a-bd0d-428ad581ab9b)
+
+![Academics](https://github.com/Raymond4545/11228276_DCIT205/assets/151669493/6aacd35f-8a07-47ee-8604-c756937135ed)
+
+![ContactUs](https://github.com/Raymond4545/11228276_DCIT205/assets/151669493/2cdacbe8-2302-48b4-a05d-3905aacc7f82)
+
+
+![ContactUs](https://github.com/Raymond4545/11228276_DCIT205/assets/151669493/3300049b-1843-48ed-a6b1-823169002620)
+
 
 # Lessons Learned
 
