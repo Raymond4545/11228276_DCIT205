@@ -1,0 +1,88 @@
+.top img{
+    width: 100%;
+    height: 600px;
+}
+
+.form{
+    width: 500px;
+    
+}
+
+.form input{
+    margin-bottom: 12px;
+    height: 20px;
+    
+}
+
+.form label{
+    margin-top: 20px;
+}
+
+#designation{
+    margin-bottom: 10px;
+    height: 30px;
+    width: 500px;
+}
+
+#fname{
+   width: 490px; 
+}
+#amount{
+    width: 490px;   
+}
+
+#zip{
+    width: 490px; 
+}
+
+#email{
+    width: 490px; 
+}
+
+.ugb{
+    background: red;
+    cursor: pointer;
+    border: none;
+    height: 30px;
+    width: 500px;
+}
+.ugb:hover{
+    color: red;
+    background: white;
+    border: solid 2px red;
+
+}
+
+.paypal{
+    background: blue;
+    cursor: pointer;
+    border: none;
+    height: 30px;
+    width: 500px;
+}
+
+.paypal:hover{
+    background: white;
+    color: blue;
+    border: solid 2px blue;
+}
+
+.venmo{
+    background: violet;
+    cursor: pointer;
+    border: none;
+    height: 30px;
+    width: 500px;
+}
+.venmo:hover{
+
+    background: white;
+    color: violet;
+    border: solid 2px violet;
+}
+
+.form-contain{
+    box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    padding: 30px;
+}

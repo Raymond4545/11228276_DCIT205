@@ -1,0 +1,32 @@
+.about{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  font-size: 70px;
+  color: rgb(105, 105, 228);
+  font-family: serif;
+  
+  }
+  
+  .aboutpic{
+      width:1270px;
+  }
+  .content{
+      color: #272224;
+      font-size: 20px;
+      font-weight: 400;
+      letter-spacing: 0.3px;
+      line-height: 1.38;
+  margin-left: 20px;
+  font-family: 'Times New Roman';
+  
+  }
+  .about-title{
+      text-align: center;
+  margin-top:20px;
+  margin-bottom: 0px;
+  font-family: 'Lucida Sans';
+  font-size: 30px;
+  }
+  
